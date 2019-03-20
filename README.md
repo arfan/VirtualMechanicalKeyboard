@@ -1,1 +1,11 @@
-Based on https://github.com/SkrewEverything/Swift-Keylogger (h/t)
+Virtual Mechanical Keyboard for Mac
+
+Dependency:
+    - mplayer
+    - python3 
+
+Build
+`$ make`
+
+Run
+`$ ./virtualmechanicalkeyboard`
